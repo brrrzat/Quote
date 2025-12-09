@@ -45,6 +45,14 @@ body.light .quote-box{
 #quote-text{
   font-size: 24px;
 }
+
+#bottom{
+  display: flex;
+  margin-top: 10%;
+  align-items: center;
+  gap: 80%;
+}
+
 .quote-box{
   background-color: #1F2937;
   border-radius: 5px;
@@ -58,7 +66,7 @@ body.light .quote-box{
 
 }
 #bot{
-  margin-top: 10%;
+  /* margin-top: 10%; */
 }
 button{
   border-radius: 100%;
